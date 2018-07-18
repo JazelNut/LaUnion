@@ -45,12 +45,12 @@
     "lng": 120.2892
   },
   {
-    "id": 1006,
-    "name": "Poro Point Lighthouse",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
+    "id": 1007,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.6149,
-    "lng": 120.2808
+    "lat": 16.8568,
+    "lng": 120.3729
   },
 ]
