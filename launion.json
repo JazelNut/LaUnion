@@ -111,13 +111,13 @@
   },
   {
     "id": 1011,
-    "name": "Bahay na Bato",
+    "name": "Kamay na Bato Open Art Gallery",
     "imageUrl": "http://2.bp.blogspot.com/-eWHjgJJ4Inc/VjsVPdpd6AI/AAAAAAAAGBg/kKz714TIzBc/s1600/Bahay%2Bna%2BBato%2B0.JPG",
     "description": "Showcases sculpted or carved arts and crafts made from stones and driftwoods",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.84758,
-    "lng": 120.3504
+    "lat": 16.8472,
+    "lng": 120.3517
   }
 
 ]
