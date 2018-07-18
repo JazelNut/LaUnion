@@ -3,7 +3,7 @@
     "id": 1000,
     "name": "My Home Address",
     "imageUrl": "https://scontent.fcrk2-1.fna.fbcdn.net/v/t1.0-9/163250_173264146048326_1960040_n.jpg?_nc_cat=0&oh=1b596a790d8ef4b398ef82eae17ba451&oe=5BDEC500",
-    "description": "",  
+    "description": "Ideally situated in a commercial residential community in it easy to have a quick swim or shopping spree",  
     "price": "0",
     "priceCurrency": "₱",
     "lat": 16.626736,
@@ -108,5 +108,15 @@
     "priceCurrency": "₱",
     "lat": 16.6458,
     "lng": 120.3323
+  }
+  {
+    "id": 1011,
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://perkyperks.files.wordpress.com/2010/03/p3101282.jpg?w=455&h=341",
+    "description": "San Fernando, La Union version of the christ the redeemer of Rio de Janeiro",
+    "price": 40,
+    "priceCurrency": "₱",
+    "lat": 16.6204,
+    "lng": 120.3190
   }
 ]
