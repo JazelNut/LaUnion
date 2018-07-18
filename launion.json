@@ -3,7 +3,7 @@
     "id": 1001,
     "name": "Macho Temple",
     "imageUrl": "https://c1.staticflickr.com/2/1662/24116978384_36c4bb66d6_b.jpg",
-    "price": 100,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6212,
     "lng": 120.3175
@@ -12,7 +12,7 @@
     "id": 1002,
     "name": "Tangadan Falls",
     "imageUrl": "https://3.bp.blogspot.com/-_Ax3dsMPFkE/WNkX1uHslCI/AAAAAAAAU5s/ItlFzJ0rAwYvB2p9zNSyjj3-XLW3wsDaACEw/s1600/Tangadan%2BFalls%252C%2BSan%2BGabriel%252C%2BLa%2BUnion%2B%252815%2529.jpg",
-    "price": 200,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6436,
     "lng": 120.4488
@@ -21,7 +21,7 @@
     "id": 1003,
     "name": "Thunderbird Resorts",
     "imageUrl": "http://images.asiatravel.com/Hotel/6033/facade.jpg",
-    "price": 150,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6091,
     "lng": 120.2865
@@ -30,27 +30,63 @@
     "id": 1004,
     "name": "Pugad Pugo Adventure",
     "imageUrl": "http://www.rjdexplorer.com/wp-content/uploads/2013/03/tumblr_inline_mkfk9jqG761qz4rgp.jpg",
-    "price": 115,
+    "price": 350,
     "priceCurrency": "₱",
     "lat": 16.3367,
     "lng": 120.4788
   },
   {
-    "id": 1004,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
+    "id": 1005,
+    "name": "Poro Point Baywalk",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/poro-point-baywalk.jpg",
+    "price": 0,
     "priceCurrency": "₱",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.6190,
+    "lng": 120.2892
   },
   {
-    "id": 1005,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
+    "id": 1006,
+    "name": "Poro Point Lighthouse",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg"
+    "price": 0,
     "priceCurrency": "₱",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.6149,
+    "lng": 120.2808
+  }
+  {
+    "id": 1007,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg"
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.8568,
+    "lng": 120.3729
+  }
+  {
+    "id": 1008,
+    "name": "Lomboy Grapes Farm",
+    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg"
+    "price": 350,
+    "priceCurrency": "₱",
+    "lat": 16.4633,
+    "lng": 120.3356
+  }
+  {
+    "id": 1009,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg"
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.5881,
+    "lng": 120.3146
+  }
+  {
+    "id": 1010,
+    "name": "Hobbitat Forest Park",
+    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg"
+    "price": 40,
+    "priceCurrency": "₱",
+    "lat": 16.6458,
+    "lng": 120.3323
   }
 ]
