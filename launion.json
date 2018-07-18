@@ -24,7 +24,7 @@
     "name": "Tangadan Falls",
     "imageUrl": "https://3.bp.blogspot.com/-_Ax3dsMPFkE/WNkX1uHslCI/AAAAAAAAU5s/ItlFzJ0rAwYvB2p9zNSyjj3-XLW3wsDaACEw/s1600/Tangadan%2BFalls%252C%2BSan%2BGabriel%252C%2BLa%2BUnion%2B%252815%2529.jpg",
     "description": "Cascading waterfalls are the highlight of this popular & picturesque natural attraction",
-    "price": 0,
+    "price": 30,
     "priceCurrency": "₱",
     "lat": 16.6436,
     "lng": 120.4488
@@ -44,7 +44,7 @@
     "name": "Pugad Pugo Adventure",
     "imageUrl": "http://www.rjdexplorer.com/wp-content/uploads/2013/03/tumblr_inline_mkfk9jqG761qz4rgp.jpg",
     "description": "Known to be one of the most sought-after adventure places in the North",
-    "price": 350,
+    "price": 200,
     "priceCurrency": "₱",
     "lat": 16.3367,
     "lng": 120.4788
@@ -84,7 +84,7 @@
     "name": "Lomboy Grapes Farm",
     "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
     "description": "The pioneer grape farm in the Philippines",
-    "price": 350,
+    "price": 100,
     "priceCurrency": "₱",
     "lat": 16.4633,
     "lng": 120.3356
@@ -114,7 +114,7 @@
     "name": "Kamay na Bato Open Art Gallery",
     "imageUrl": "http://2.bp.blogspot.com/-eWHjgJJ4Inc/VjsVPdpd6AI/AAAAAAAAGBg/kKz714TIzBc/s1600/Bahay%2Bna%2BBato%2B0.JPG",
     "description": "Showcases sculpted or carved arts and crafts made from stones and driftwoods",
-    "price": 0,
+    "price": 20,
     "priceCurrency": "₱",
     "lat": 16.8472,
     "lng": 120.3517
