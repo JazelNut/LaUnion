@@ -3,7 +3,7 @@
     "id": 1001,
     "name": "Macho Temple",
     "imageUrl": "https://c1.staticflickr.com/2/1662/24116978384_36c4bb66d6_b.jpg",
-    "price": 164,
+    "price": 100,
     "priceCurrency": "₱",
     "lat": 48.884211,
     "lng": 2.346890
@@ -11,7 +11,7 @@
   {
     "id": 1002,
     "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://3.bp.blogspot.com/-_Ax3dsMPFkE/WNkX1uHslCI/AAAAAAAAU5s/ItlFzJ0rAwYvB2p9zNSyjj3-XLW3wsDaACEw/s1600/Tangadan%2BFalls%252C%2BSan%2BGabriel%252C%2BLa%2BUnion%2B%252815%2529.jpg",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 48.885707,
