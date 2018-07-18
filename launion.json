@@ -98,6 +98,26 @@
     "priceCurrency": "₱",
     "lat": 16.5881,
     "lng": 120.3146
+  },
+  {
+    "id": 1010,
+    "name": "Hobbitat Forest Park",
+    "imageUrl": "https://scontent.fcrk2-1.fna.fbcdn.net/v/t1.0-9/33766986_1081020515371829_2606678315515248640_n.jpg?_nc_cat=0&oh=9681649990be54f7cfbd0b9702f1916b&oe=5BD805A2",
+    "description": "The silence and serenity of the surrounding area is perfectly relaxing, especially for nature lovers",
+    "price": 40,
+    "priceCurrency": "₱",
+    "lat": 16.6458,
+    "lng": 120.3323
+  },
+  {
+    "id": 1011,
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://perkyperks.files.wordpress.com/2010/03/p3101282.jpg",
+    "description": "San Fernando, La Union version of the christ the redeemer of Rio de Janeiro",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.6204,
+    "lng": 120.3190
   }
 
 ]
