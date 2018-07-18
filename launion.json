@@ -47,7 +47,7 @@
   {
     "id": 1006,
     "name": "Poro Point Lighthouse",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg"
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.6149,
@@ -56,7 +56,7 @@
   {
     "id": 1007,
     "name": "Baluarte Watch Tower",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg"
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.8568,
@@ -65,7 +65,7 @@
   {
     "id": 1008,
     "name": "Lomboy Grapes Farm",
-    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg"
+    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
     "price": 350,
     "priceCurrency": "₱",
     "lat": 16.4633,
@@ -74,7 +74,7 @@
   {
     "id": 1009,
     "name": "Pindangan Ruins",
-    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg"
+    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.5881,
@@ -83,7 +83,7 @@
   {
     "id": 1010,
     "name": "Hobbitat Forest Park",
-    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg"
+    "imageUrl": "https://c1.staticflickr.com/5/4133/4842917589_ed29510364_b.jpg",
     "price": 40,
     "priceCurrency": "₱",
     "lat": 16.6458,
