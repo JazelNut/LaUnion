@@ -12,7 +12,7 @@
   {
     "id": 1001,
     "name": "Chocolate Hills",
-    "imageUrl": "http://www.tourism.gov.ph/images/chocolate_hills.jpg",
+    "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
     "description": "Province of Bohol",
     "distance": 1092,
     "unit": "km",
@@ -22,11 +22,111 @@
   {
     "id": 1002,
     "name": "Boracay",
-    "imageUrl": "http://www.tourism.gov.ph/images/top-destinations-boracay.png",
+    "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/25/11/boracay.jpg",
     "description": "Aklan",
     "distance": 638,
     "unit": "km",
     "lat": 11.9674,
     "lng": 121.9248
-  }
- 
+  },
+  {
+    "id": 1003,
+    "name": "Puerto Princesa Subterranean River",
+    "imageUrl": "https://media3.trover.com/T/5666a10cd0900130bf13a490/fixedw_large_4x.jpg",
+    "description": "National Park, Palawan",
+    "distance": 1011,
+    "unit": "km",
+    "lat": 10.1926,
+    "lng": 118.9266
+  },
+  {
+    "id": 1004,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://flauntingitcharlton.files.wordpress.com/2012/04/foot-of-the-structure.jpg",
+    "description": "Ifugao Province, Cordillera",
+    "distance": 203,
+    "unit": "km",
+    "lat": 16.9240,
+    "lng": 121.0556
+  },
+  {
+    "id": 1005,
+    "name": "Historic City of Vigan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Calle_Crisologo%2C_Vigan_at_night.jpg",
+    "description": "Vigan, Ilocos Sur",
+    "distance": 134,
+    "unit": "km",
+    "lat": 17.5705,
+    "lng": 120.3873
+  },
+  {
+    "id": 1006,
+    "name": "Panglao Island",
+    "imageUrl": "https://www.hirento.com/images/tour_drivers/89d15f33202ef25c83bab522d61b3eea189-0.jpg",
+    "description": "Bohol",
+    "distance": 861.31,
+    "unit": "km",
+    "lat": 9.5874,
+    "lng": 123.8076
+  },
+  {
+    "id": 1007,
+    "name": "Coron Island,
+    "imageUrl": "http://swiatwedlugrostkow.pl/wp-content/uploads/2016/01/coron-wpis-940x581.jpg",
+    "description": "Palawan",
+    "distance": 520.76,
+    "unit": "km",
+    "lat": 11.9283,
+    "lng": 120.2397
+  },
+  {
+    "id": 1008,
+    "name": "Batanes Island,
+    "imageUrl": "http://driftwoodjourneys.com/wp-content/uploads/2012/07/296287_10150333673546839_824327062_n.jpg",
+    "description": "Batanes",
+    "distance": 468.25,
+    "unit": "km",
+    "lat": 20.4485,
+    "lng":  121.9708
+  },
+  {
+    "id": 1009,
+    "name": "Siargao Island,
+    "imageUrl": "https://photos.smugmug.com/Asia/Philippines/i-Srbsr8C/2/XL/siargao-surfing-rock-island-XL.jpg",
+    "description": "Siargao",
+    "distance": 982.66,
+    "unit": "km",
+    "lat": 9.8482,
+    "lng":  126.0458
+  },
+  {
+    "id": 1010,
+    "name": "Mayon Volcano,
+    "imageUrl": "https://ak0.picdn.net/shutterstock/videos/27742240/thumb/1.jpg",
+    "description": "Albay",
+    "distance": 520.01,
+    "unit": "km",
+    "lat": 13.2548,
+    "lng":  123.6861
+  },
+  {
+    "id": 1011,
+    "name": "Intramuros,
+    "imageUrl": "https://4btuu042fbqw3r2gen1rt2ok-wpengine.netdna-ssl.com/wp-content/uploads/sites/8/2017/07/Intramuros-Manila-Tourist-Spot.jpg",
+    "description": "Manila",
+    "distance": 235.90,
+    "unit": "km",
+    "lat": 14.5896,
+    "lng":  120.9747
+  },
+  {
+    "id": 1012,
+    "name": "Mayon Volcano,
+    "imageUrl": "https://ak0.picdn.net/shutterstock/videos/27742240/thumb/1.jpg",
+    "description": "Albay",
+    "distance": 520.01,
+    "unit": "km",
+    "lat": 13.2548,
+    "lng":  123.6861
+  },
+   
