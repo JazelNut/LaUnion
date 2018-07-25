@@ -121,12 +121,12 @@
   },
   {
     "id": 1012,
-    "name": "Mayon Volcano",
-    "imageUrl": "https://ak0.picdn.net/shutterstock/videos/27742240/thumb/1.jpg",
-    "description": "Albay",
-    "price": 520.01,
+    "name": "Sagada",
+    "imageUrl": "https://i2.wp.com/www.muckingaroundmanila.com/wp-content/uploads/2016/01/copyright-muckingaroundmanila-kathiraneses-jerichosanmiguel-sagada-mountainprovince-106.jpg?resize=900%2C600&ssl=1",
+    "description": "Mountain Province",
+    "price": 81.73,
     "priceCurrency": "km",
-    "lat": 13.2548,
-    "lng":  123.6861
+    "lat": 17.0981,
+    "lng":  120.9073
   }
   ]
